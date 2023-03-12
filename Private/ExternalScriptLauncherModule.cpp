@@ -1,8 +1,6 @@
 // Copyright Epic Games, Inc. All Rights Reserved.
 
-#include "ExternalScriptLauncherModule.h"
-
-static const FName ArgsPasserModuleTabName("ExternalScriptLauncherModule");
+#include "ExternalScriptLauncherModule/Public/ExternalScriptLauncherModule.h"
 
 #define LOCTEXT_NAMESPACE "ExternalScriptLauncherModule"
 
